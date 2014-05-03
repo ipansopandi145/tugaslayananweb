@@ -2,7 +2,8 @@ tugaslayananweb
 ===============
 
 
-Ass.,
+Assalamualikum Wr.Wb...,
+Salam Sejahtera..
 Teknik Informatika C 2011
 touch README.md
 git init 
