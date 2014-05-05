@@ -14,12 +14,13 @@ for($x=0; $x<$count; $x++){
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>DETIK</title>
+	<title>Detik Berita Bola</title>
 	<link rel="stylesheet" href="style.css">
 </head>
-<body>
 	<div class="container">
-	<h1>Detik berita bola dalam dan luar negri</h1>
+	<h1><center><font face="Bauhaus 93" size="+3" color="#008000" >
+	Dari Detik.Com <br> Berita Bola Dalam Dan Luar Negri 
+	<hr width="100%" color="#B22222" size="5" /> </font></center></h1>
 	<?php
 	$output = '';
 	foreach($newArray as $new){
